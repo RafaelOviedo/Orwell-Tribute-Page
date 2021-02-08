@@ -1,0 +1,79 @@
+body {
+  background-color: white;
+  font-family: candara;
+  line-height: 1.5;
+  text-align: justify;
+  text-justify: inherit;
+  margin: 20px;
+}
+
+main {
+    width: 100%;
+    background-color: lightgrey;
+    border-radius: 8px;
+  }
+  
+  html {
+    font-size: 18px;
+  }
+  
+  #img-caption {
+    text-align: center;
+    box-sizing: border-box;
+  }
+  
+  #title {
+    text-align: center;
+    font-size: 35px;
+    font-family: calibri;
+    box-sizing: border-box;
+  }
+  
+  #image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    }
+
+  
+  #tribute-info {
+    height: auto;
+    max-width: 60%;
+    box-sizing: border-box;
+    margin: auto;
+  }
+  
+  #historyTitle {
+    text-align: center;
+    box-sizing: border-box;
+  }
+  
+  #Pfooter {
+    max-width: 60%;
+    margin-left: 290px;
+    margin: auto;
+  }
+  
+  #footerlink {
+    max-width: 60%;
+    margin-left: 270px;
+    text-align: center;
+    margin: auto;
+  }
+  
+  #img-div {
+    padding: 40px; 
+    background-color: white;  
+    border-radius: 8px;
+    box-sizing: border-box;
+  }
+  
+  #subtitle {
+    text-align: center;
+    font-size: 17px;
+    box-sizing: border-box;
+  }
+  
